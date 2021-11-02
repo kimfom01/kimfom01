@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kimfom01
-- 👀 I’m interested in SwiftUI (IOS) Mobile development, Computer Vision (Python) and C# Desktop Developmemt 😁
+- 👀 I’m interested in SwiftUI (IOS) Mobile development, AI & Machine Learning and C# Desktop Developmemt
 - 🎓 I'm currentyly a student of Voronezh State University, Voronezh, Russia
 - 🌱 I’m currently learning Computer Vision and Machine learning using Python
 - 💞️ I’m looking to collaborate on your projects
