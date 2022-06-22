@@ -4,7 +4,6 @@
 - 📫 How to reach me kimfom01@gmail.com
 
 
-I am new to open-source and I am developing in my free time. I would appreciate it if you can support me by donating.
 
 * [Buy Me A Coffee](https://www.buymeacoffee.com/kimfom01)
 
