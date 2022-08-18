@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Kim Fom
 - 🎓 I'm currenty a student of Voronezh State University, Voronezh, Russia
-- 💞️ I’m looking to collaborate on your projects
-- 📫 How to reach me kimfom01@gmail.com
+- 📜 [Resume](https://temp.iamkimfom.live)
 
 
 
