@@ -2,7 +2,7 @@
 - 🎓 I'm currenty a student of Voronezh State University, Voronezh, Russia
 - 📜 [Resume](https://temp.iamkimfom.live)
 
-
+<!--- - [![@kimfom01's Holopin board](https://holopin.io/api/user/board?user=kimfom01)](https://holopin.io/@kimfom01)--->
 
 * [Buy Me A Coffee](https://www.buymeacoffee.com/kimfom01)
 
