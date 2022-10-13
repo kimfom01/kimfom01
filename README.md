@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kim Fom
 - 🎓 I'm currenty a student of Voronezh State University, Voronezh, Russia
-- 📜 [Resume](https://temp.iamkimfom.live)
+- 📜 [Resume](https://kimfom01.github.io/autoCV/cv.pdf)
 
 <!--- - [![@kimfom01's Holopin board](https://holopin.io/api/user/board?user=kimfom01)](https://holopin.io/@kimfom01)--->
 
