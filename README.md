@@ -4,7 +4,6 @@
 
 <!--- - [![@kimfom01's Holopin board](https://holopin.io/api/user/board?user=kimfom01)](https://holopin.io/@kimfom01)--->
 
-
 <br>
 
 <p>
@@ -23,7 +22,12 @@
 ![C#](https://img.shields.io/static/v1?message=C-Sharp&logo=C-Sharp&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![.NET](https://img.shields.io/static/v1?message=.NET&logo=.NET&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![Python](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
-
+![Microsoft SQL Server](https://img.shields.io/static/v1?message=Microsoft-SQL-Server&logo=Microsoft-SQL-Server&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)  
+![SQLite](https://img.shields.io/static/v1?message=SQLite&logo=SQLite&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![Linux](https://img.shields.io/static/v1?message=Linux&logo=Linux&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![GNU Bash](https://img.shields.io/static/v1?message=GNU-Bash&logo=GNU-Bash&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![Rider](https://img.shields.io/static/v1?message=Rider&logo=Rider&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![Visual Studio](https://img.shields.io/static/v1?message=Visual-Studio&logo=Visual-Studio&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 
 <br>
 
