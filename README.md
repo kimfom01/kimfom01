@@ -36,7 +36,7 @@
 <a href="https://twitter.com/kimographie" target="_blank">
     <img align="center" src="https://img.shields.io/badge/kimographie%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
-<a href="https://www.linkedin.com/in/kim-fom-aa2616242/" target="_blank">
+<a href="https://www.linkedin.com/in/kim-fom/" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Kim%20Fom%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
