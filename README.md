@@ -18,6 +18,12 @@
 
 <br>
 
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimfom01&langs_count=10&layout=compact&theme=midnight-purple&locale=en" />
+</p>
+
+<br>
+
 ### Tech Stack
 ![C#](https://img.shields.io/static/v1?message=C-Sharp&logo=C-Sharp&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![.NET](https://img.shields.io/static/v1?message=.NET&logo=.NET&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
