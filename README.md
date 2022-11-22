@@ -7,12 +7,6 @@
 <br>
 
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kimfom01&theme=midnight-purple&date_format=M%20j%5B%2C%20Y%5D" alt="Kim's streak">
-</p>
-
-<br>
-
-<p>
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimfom01&count_private=true&show_icons=true&theme=midnight-purple&locale=en" alt="kim's stats">
 </p>
 
