@@ -13,7 +13,7 @@
 <br>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimfom01&layout=compact&theme=midnight-purple&locale=en&langs_count=10" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimfom01&layout=compact&theme=midnight-purple&locale=en" />
 </p>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimfom01&layout=compact&theme=midnight-purple&locale=en&langs_count=10)]() -->
