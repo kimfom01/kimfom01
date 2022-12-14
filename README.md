@@ -23,7 +23,7 @@
 ### Tech Stack
 ![C#](https://img.shields.io/static/v1?message=C-Sharp&logo=C-Sharp&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![.NET](https://img.shields.io/static/v1?message=.NET&logo=.NET&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
-![ASP.NET Core](https://img.shields.io/static/v1?message=ASP.NET-Core&logo=ASP.NET&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![ASP.NET Core Web Api](https://img.shields.io/static/v1?message=ASP.NET-Core-Web-Api&logo=ASP.NET-Core-Web-Api&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![Python](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![Microsoft SQL Server](https://img.shields.io/static/v1?message=Microsoft-SQL-Server&logo=Microsoft-SQL-Server&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)  
 ![Entity Framework](https://img.shields.io/static/v1?message=Entity-Framework-Core&logo=Entity-Framework-Core&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
