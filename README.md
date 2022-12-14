@@ -23,13 +23,17 @@
 ### Tech Stack
 ![C#](https://img.shields.io/static/v1?message=C-Sharp&logo=C-Sharp&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![.NET](https://img.shields.io/static/v1?message=.NET&logo=.NET&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![ASP.NET Core](https://img.shields.io/static/v1?message=ASP.NET-Core&logo=ASP.NET&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![Python](https://img.shields.io/static/v1?message=Python&logo=Python&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![Microsoft SQL Server](https://img.shields.io/static/v1?message=Microsoft-SQL-Server&logo=Microsoft-SQL-Server&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)  
-![SQLite](https://img.shields.io/static/v1?message=SQLite&logo=SQLite&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![Entity Framework](https://img.shields.io/static/v1?message=Entity-Framework-Core&logo=Entity-Framework-Core&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![Linux](https://img.shields.io/static/v1?message=Linux&logo=Linux&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 ![GNU Bash](https://img.shields.io/static/v1?message=GNU-Bash&logo=GNU-Bash&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
-![Rider](https://img.shields.io/static/v1?message=Rider&logo=Rider&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![Rider](https://img.shields.io/static/v1?message=Rider&logo=Rider&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)  
 ![Visual Studio](https://img.shields.io/static/v1?message=Visual-Studio&logo=Visual-Studio&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![Visual Studio Code](https://img.shields.io/static/v1?message=Visual-Studio-Code&logo=Visual-Studio-Code&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![Swagger OpenAPI](https://img.shields.io/static/v1?message=Swagger-OpenAPI&logo=Swagger&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
+![Postman](https://img.shields.io/static/v1?message=Postman&logo=Postman&labelColor=5c5c5c&color=1182c3&logoColor=white&label=%20&style=plastic)
 
 <br>
 
