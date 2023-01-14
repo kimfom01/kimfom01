@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m Kim Fom
-#### 🎓 I'm currenty a student of Voronezh State University, Voronezh
+<!-- #### 🎓 I'm currenty a student of Voronezh State University, Voronezh -->
+#### I am a C# developer with 1+ years of experience in creating solutions for on-premises and cloud deployments. My Github projects demonstrate my proficiency in C#, .NET Core, ASP.NET Core, and SQL.  
+I am an active open-source contributor with experience in developing RESTful web APIs and personal projects such as a shift logging app and a tracker application. My passion for technology and ability to work well in a team make me a valuable asset to any organization.
 #### 📜 [Resume](https://kimfom01.github.io/resume/KimFomResume.pdf)
 
 <!--- - [![@kimfom01's Holopin board](https://holopin.io/api/user/board?user=kimfom01)](https://holopin.io/@kimfom01)--->
