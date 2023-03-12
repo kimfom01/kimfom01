@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Kim Fom
 <!-- #### 🎓 I'm currenty a student of Voronezh State University, Voronezh -->
-#### I am a C# developer with 1+ years of experience in creating solutions for on-premises and cloud deployments. My Github projects demonstrate my proficiency in C#, .NET Core, ASP.NET Core, and SQL.  
-I am an active open-source contributor with experience in developing RESTful web APIs and personal projects such as a shift logging app and a tracker application. My passion for technology and ability to work well in a team make me a valuable asset to any organization.
+#### I am a full stack developer with experience in both on-premises and cloud deployments. My skill set includes proficiency in C#, ASP.NET Core, SQL, Entity Framework, JavaScript, Python, HTML, CSS, Git and Docker. 
+
 #### 💼 [Portfolio](https://kimfom01.github.io/portfolio/)
 #### 📜 [Resume](https://kimfom01.github.io/Resume/KimFomResume.pdf)
 
