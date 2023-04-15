@@ -2,8 +2,8 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </div>  
 
-### <div align="center">Hi 👋  I am Kim and I am a full stack developer 👨‍💻 </div>  
-<div align="center"> ⚡ Fun fact: I use tabs over spaces</div>
+### <div align="center">Hi 👋  I am Kim and I am a junior full stack developer 👨‍💻 </div>  
+<div align="center"> ⚡ Fun fact: I use tabs over spaces</div>  
 
 - 💼 [Portfolio](https://kimfom01.github.io/portfolio/)  
 - 📜 [Resume](https://kimfom01.github.io/Resume/KimFomResume.pdf)  
