@@ -6,7 +6,7 @@
 <div align="center"> ⚡ Fun fact: I use tabs over spaces</div>  
 
 ### - 💼 [Portfolio](https://kimfom01.github.io/portfolio/)  
-### - 📜 [Resume](https://kimfom01.github.io/Resume/KimFomResume.pdf)  
+### - 📜 [Resume](https://kimfom01.github.io/resume/Kim_Fom_Resume.pdf)  
 
 <br/>  
 
