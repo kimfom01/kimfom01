@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </div>  
 
-### <div align="center">Hi 👋  I am Kim, a music lover and a full stack developer 👨‍💻 🕵️ </div>  
+### <div align="center">Hi 👋  I am Kim and I am a full stack developer 👨‍💻 🕵️ </div>  
 
 - 💼 [Portfolio](https://kimfom01.github.io/portfolio/)  
 - 📜 [Resume](https://kimfom01.github.io/Resume/KimFomResume.pdf)  
