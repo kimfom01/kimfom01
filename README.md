@@ -3,10 +3,10 @@
 </div>  
 
 ### <div align="center">Hi 👋  I am Kim and I am a junior full stack developer 👨‍💻 </div>  
-<div align="center"> ⚡ Fun fact: I use tabs over spaces</div>  
+<div align="center"> ⚡ Fun fact: I prefer tabs over spaces</div>  
 
-### - 💼 [Portfolio](https://kimfom01.github.io/portfolio/)  
-### - 📜 [Resume](https://kimfom01.github.io/resume/Kim_Fom_Resume.pdf)  
+### <div align="center">- 💼 [Portfolio](https://kimfom01.github.io/portfolio/) </div>   
+### <div align="center">- 📜 [Resume](https://kimfom01.github.io/resume/Kim_Fom_Resume.pdf) </div>   
 
 <br/>  
 
