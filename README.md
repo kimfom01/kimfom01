@@ -74,7 +74,7 @@
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimfom01&layout=compact&theme=midnight-purple&locale=en&langs_count=10&hide=jupyter%20notebook,matlab" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimfom01&layout=compact&theme=midnight-purple&locale=en&langs_count=10" />
 </div>  
 
 <br/>  
