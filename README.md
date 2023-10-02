@@ -1,6 +1,6 @@
-<div>
+<!-- <div>
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
-</div>  
+</div>  -->
 
 ### <div>Hi 👋  I am Kim and I am a Software Engineer 👨‍💻 </div>  
 
