@@ -2,7 +2,7 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
 </div>  -->
 
-### <div>Hi 👋  I am Kim and I am a Software Engineer 👨‍💻 </div>  
+## Hi 👋 I am Kim and I am a Software Engineer 👨‍💻
 
 ### <div>- 💼 [Portfolio](https://kimfom01.github.io/portfolio/) </div>   
 ### <div>- 📜 [Resume](https://kimfom01.github.io/resume/Kim_Fom_Resume.pdf) </div>   
