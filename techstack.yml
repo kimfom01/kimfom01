@@ -1,0 +1,18 @@
+repo_name: kimfom01/kimfom01
+report_id: 302ea36707f1b8720f83935ae401f277
+repo_type: Public
+timestamp: '2023-11-09T15:58:09+00:00'
+requested_by: kimfom01
+provider: github
+branch: main
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
