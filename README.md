@@ -5,7 +5,7 @@
 # Hi 👋 I am Kim 👨‍💻
 
 <!-- ### <div>- 💼 [Portfolio](https://kimfom01.github.io/portfolio/) </div>   -->
-<!-- ### <div>- 📜 [Resume](https://kimfom01.github.io/resume/Kim_Fom_Resume.pdf) </div> -->
+### <div>- 📜 [Resume](https://kimfom01.github.io/resume/Kim_Fom_Resume.pdf) </div>
 
 ## Connect with me  
 <div>
